@@ -1,0 +1,7 @@
+ATTENTION
+for the files to work u gotta change to path for your images 
+and install certain libararies such as 
+opencv 2
+numpy
+pywt
+skimage
